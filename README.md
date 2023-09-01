@@ -1,2 +1,4 @@
 # tictactoe-react
-Tugas 1 Cara Kerja GitHub- David Chandra (082111633090) - Pembangunan Perangkat Lunak
+Tugas 1 Cara Kerja GitHub - Pembangunan Perangkat Lunak
+Nama : David Chandra 
+NIM  : 082111633090
